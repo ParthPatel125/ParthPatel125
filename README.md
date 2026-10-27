@@ -2,8 +2,9 @@
 
 # Hey, I'm Parth 👋
 
-Student builder. Co-founder of **Tuppi**, a food-waste venture built through
-IncubatorEDU, where I design and ship the mobile app end to end.
+Student builder. Co-founder of **[Tuppi](https://tuppitags.com)**, a food-waste
+venture built through IncubatorEDU, where I design and ship the mobile app end
+to end.
 
 </div>
 
@@ -32,7 +33,7 @@ down so nothing goes to waste.
 ![React Native](https://img.shields.io/badge/React%20Native-61DAFB?logo=react&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
 
-**[→ Explore the code](https://github.com/areebhirani-beep/tuppiAPP)**
+**[→ Explore the code](https://github.com/areebhirani-beep/tuppiAPP)** · **[🌐 tuppitags.com](https://tuppitags.com)**
 
 </td>
 </tr>
@@ -47,10 +48,10 @@ down so nothing goes to waste.
 </td>
 <td valign="top">
 
-### [tuppi-web](https://github.com/ParthPatel125/tuppi-web)
+### [tuppi-web](https://github.com/ParthPatel125/tuppi-web) — live at [tuppitags.com](https://tuppitags.com)
 
 The pre-launch landing page for Tuppi — a deliberately zero-dependency
-static site.
+static site, running in production on our own domain.
 
 - 📄 Ships as a **single self-contained `index.html`** — both photos inlined
   as data URIs, the only external request is one Google Fonts stylesheet
@@ -61,7 +62,7 @@ static site.
 ![HTML](https://img.shields.io/badge/HTML%2FCSS-E34F26?logo=html5&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 
-**[→ View the source](https://github.com/ParthPatel125/tuppi-web)**
+**[🌐 Visit the live site](https://tuppitags.com)** · **[→ View the source](https://github.com/ParthPatel125/tuppi-web)**
 
 </td>
 </tr>
