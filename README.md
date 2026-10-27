@@ -12,7 +12,7 @@ IncubatorEDU, where I design and ship the mobile app end to end.
 <table>
 <tr>
 <td width="330" align="center">
-<img src="https://raw.githubusercontent.com/areebhirani-beep/tuppiAPP/main/docs/readme/demo.gif" alt="Tuppi app demo: home sorted by urgency, food details, tap a dot, shared fridge, savings" width="280" />
+<img src="assets/demo.gif" alt="Tuppi app demo: home sorted by urgency, food details, tap a dot, shared fridge, savings" width="280" />
 </td>
 <td valign="top">
 
