@@ -1,7 +1,12 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
-  <img src="assets/header-light.svg" width="100%" alt="parth patel. I build apps and websites.">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg?v=2">
+  <img src="assets/header-light.svg?v=2" width="100%" alt="parth patel. I build apps and websites.">
 </picture>
+
+### experience
+
+**locket** · product & growth intern · may to aug 2026<br>
+user research on why people keep coming back, and helped ship 3 features into the live app — built side by side with my intern partner.
 
 ### building now
 
