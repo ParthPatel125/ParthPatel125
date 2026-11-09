@@ -1,6 +1,6 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/intro-dark.svg">
-  <img src="assets/intro-light.svg" width="100%" alt="parth patel. i build apps that make good habits the default.">
+  <img src="assets/intro-light.svg" width="100%" alt="parth patel. I build apps and websites.">
 </picture>
 
 ### building now
@@ -19,3 +19,5 @@ typescript · react native · expo · python · node.js · jest · github action
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ParthPatel125/ParthPatel125/output/snake-dark.svg">
   <img src="https://raw.githubusercontent.com/ParthPatel125/ParthPatel125/output/snake.svg" width="100%" alt="contribution graph being eaten by a snake">
 </picture>
+
+[linkedin](https://www.linkedin.com/in/parthpatel100/)
