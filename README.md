@@ -15,9 +15,4 @@ open the apps for your messages, not for the feed. every instagram or tiktok ope
 
 typescript · react native · expo · python · node.js · jest · github actions · figma
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ParthPatel125/ParthPatel125/output/snake-dark.svg">
-  <img src="https://raw.githubusercontent.com/ParthPatel125/ParthPatel125/output/snake.svg" width="100%" alt="contribution graph being eaten by a snake">
-</picture>
-
 [linkedin](https://www.linkedin.com/in/parthpatel100/)
