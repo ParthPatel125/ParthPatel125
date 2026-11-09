@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" role="img" aria-label="parth patel logo: a pixel P built from contribution cells, one lit up">
+<title>parth patel</title>
+<defs>
+<filter id="glow" x="-120%" y="-120%" width="340%" height="340%"><feGaussianBlur stdDeviation="14"/></filter>
+</defs>
+<rect width="512" height="512" rx="112" fill="#0d1117"/>
+<!-- P stem -->
+<rect x="92" y="49" width="70" height="70" rx="16" fill="#e6edf3"/>
+<rect x="92" y="135" width="70" height="70" rx="16" fill="#e6edf3"/>
+<rect x="92" y="221" width="70" height="70" rx="16" fill="#e6edf3"/>
+<rect x="92" y="307" width="70" height="70" rx="16" fill="#e6edf3"/>
+<rect x="92" y="393" width="70" height="70" rx="16" fill="#e6edf3"/>
+<!-- P top -->
+<rect x="178" y="49" width="70" height="70" rx="16" fill="#e6edf3"/>
+<rect x="264" y="49" width="70" height="70" rx="16" fill="#e6edf3"/>
+<!-- P middle -->
+<rect x="178" y="221" width="70" height="70" rx="16" fill="#e6edf3"/>
+<rect x="264" y="221" width="70" height="70" rx="16" fill="#e6edf3"/>
+<!-- the lit cell -->
+<rect x="350" y="135" width="74" height="74" rx="18" fill="#34d399" filter="url(#glow)" opacity="0.8">
+<animate attributeName="opacity" values="0.8;0.45;0.8" dur="3.2s" repeatCount="indefinite"/>
+</rect>
+<rect x="350" y="135" width="70" height="70" rx="16" fill="#34d399"/>
+</svg>
