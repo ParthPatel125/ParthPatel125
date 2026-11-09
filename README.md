@@ -1,6 +1,6 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/intro-dark.svg">
-  <img src="assets/intro-light.svg" width="100%" alt="parth patel. I build apps and websites.">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
+  <img src="assets/header-light.svg" width="100%" alt="parth patel. I build apps and websites.">
 </picture>
 
 ### building now
