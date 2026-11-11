@@ -17,10 +17,10 @@ user research on why people keep coming back, and helped ship 3 features into th
 </picture>
 
 **stackd** · record-keeping app for students<br>
-log every award, project and volunteer hour the day it happens, get it verified by the coach or teacher who saw it, and export it all when applications ask. expo router on iOS 26 native tabs; dark, lime-on-black, typographic.
+log every award, project and volunteer hour the day it happens, get it verified by the coach or teacher who saw it, and export it all when applications ask.
 
 **lockd** · intentionality app for iOS<br>
-open the apps for your messages, not for the feed. every instagram or tiktok open is handed to lockd first: one guided breath, then deep-link straight to messages, open the feed on purpose, or walk away. counts scrolls avoided, minutes reclaimed, and your feed-free streak, all on-device. expo sdk 57, reanimated 4, zustand.
+open the apps for your messages, not for the feed. every instagram or tiktok open is handed to lockd first: one guided breath, then straight to messages, the feed on purpose, or walk away.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/h-what-i-work-with-dark.svg?v=2">
